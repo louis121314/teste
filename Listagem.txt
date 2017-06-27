@@ -1,7 +1,0 @@
-- VER DO ICONE
-- LEMBRAR DE COLOCAR TELA ALTERAR 
-- COLOCAR SELETOR DE DATA NAS TELAS RESTANTES
--data maior ou menos 
-- FUNCIONARIO ERRO NA ALTERAÇÃO DE CONTATO 
-
-- bug das retiradas tabela exibindo a mais
